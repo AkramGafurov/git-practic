@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git-practic/static/css/main.073c9b0a.css",
+    "main.js": "/git-practic/static/js/main.9e3a4e15.js",
+    "static/js/787.28cb0dcd.chunk.js": "/git-practic/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/git-practic/index.html",
+    "main.073c9b0a.css.map": "/git-practic/static/css/main.073c9b0a.css.map",
+    "main.9e3a4e15.js.map": "/git-practic/static/js/main.9e3a4e15.js.map",
+    "787.28cb0dcd.chunk.js.map": "/git-practic/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9e3a4e15.js"
+  ]
+}
